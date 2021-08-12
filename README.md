@@ -1,3 +1,4 @@
+This is angular news website using api.
 # NewsWebsite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.1.
